@@ -10,7 +10,7 @@ Bước 1: Tải về và cài đặt công cụ TunSafe
 + Bấm vào nút "Randomize" để lấy Private Key và Public Key được tạo ra để sử dụng ở bước sau.
 
 Bước 2: Tạo file cấu hình :
-+ Link : https://1111chấm 4itchấmtop/ ( nguồn 4IT Community)
++ Link : https://1111.4it.top/ ( nguồn 4IT Community)
 + Tạo xong lưu ID lại và tải file cấu hình về 
 
 Bước 3: Cài đặt cấu hình để sử dụng Warp+ 1.1.1.1 với TunSafe
@@ -23,6 +23,5 @@ Bước 3: Cài đặt cấu hình để sử dụng Warp+ 1.1.1.1 với TunSafe
 Bước 4 : Lấy ID buff DATA .
 
 Nguồn : APKCOMBO
-#j2team_tutorial
 
 
