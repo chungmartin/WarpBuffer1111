@@ -3,6 +3,7 @@
 **Hướng dẫn sử dụng VPN Warp+ 1.1.1.1 trên máy tính Windows,MAC OS**
 
 **Cách 1 của Windows**
+
 **Bước 1:** Tải về và cài đặt công cụ TunSafe 
 + Tải về: https://tunsafe.com/downloads/TunSafe-1.4.exe
 + Tải về: https://tunsafe.com/downloads/TunSafe-TAP-9.21.2.exe
