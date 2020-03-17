@@ -38,6 +38,7 @@ Nguồn : APKCOMBO
 
 **Bước 3:** Cài đặt cấu hình để sử dụng Warp+ 1.1.1.1 với **Wireguard**
 + Mở tool **Wireguard** vừa cài ở trên.
-+ Chọn File > Browse in Explorer để mở thư mục cấu hình.
-+ Copy file vừa tải về vào thư mục cấu hình.
++ chọn import tunnel tìm đến file có đuôi .conf vừa tải về 
+![2442](https://user-images.githubusercontent.com/62277838/76830593-1f507a00-6858-11ea-9073-fbb1113c9b9b.png)
+
 
