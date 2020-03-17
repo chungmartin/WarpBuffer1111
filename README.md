@@ -1,5 +1,3 @@
-
-
 **Hướng dẫn sử dụng VPN Warp+ 1.1.1.1 trên máy tính Windows,MAC OS,Ubuntu....**
 
 **CÁCH 1 của Windows**
@@ -18,9 +16,11 @@
 + Copy file vừa tải về vào thư mục cấu hình.
 
 ![11111](https://user-images.githubusercontent.com/62277838/76829168-1dd18280-6855-11ea-99b7-a03c22f803f7.png)
+
 + Quay lại TunSafe và chọn "tên file vừa thêm" trong list để kết nối tới Warp+.
 
 ![22222222](https://user-images.githubusercontent.com/62277838/76829310-6ee17680-6855-11ea-961b-fe19db404d4a.png)
+
 + Khi TunSafe hiện Connected có nghĩa là bạn đã kết nối thành công.
 
 **Bước 4 : Lấy ID buff DATA.**
@@ -39,8 +39,11 @@ Nguồn : APKCOMBO
 **Bước 3:** Cài đặt cấu hình để sử dụng Warp+ 1.1.1.1 với **Wireguard**
 + Mở tool **Wireguard** vừa cài ở trên.
 + chọn import tunnel tìm đến file có đuôi .conf vừa tải về 
+
 ![2442](https://user-images.githubusercontent.com/62277838/76830593-1f507a00-6858-11ea-9073-fbb1113c9b9b.png)
+
 + thêm xong ấn Activate và sửa dụng thôi
+
 ![56](https://user-images.githubusercontent.com/62277838/76830908-dd740380-6858-11ea-880d-e996abb77b45.png)
 
 ![64](https://user-images.githubusercontent.com/62277838/76831103-42c7f480-6859-11ea-9e26-8b647d80547f.png)
