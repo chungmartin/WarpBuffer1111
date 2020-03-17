@@ -14,8 +14,10 @@ Bước 3: Cài đặt cấu hình để sử dụng Warp+ 1.1.1.1 với TunSafe
 + Mở tool TunSafe vừa cài ở trên.
 + Chọn File > Browse in Explorer để mở thư mục cấu hình.
 + Copy file vừa tải về vào thư mục cấu hình.
+
 ![11111](https://user-images.githubusercontent.com/62277838/76829168-1dd18280-6855-11ea-99b7-a03c22f803f7.png)
 + Quay lại TunSafe và chọn "tên file vừa thêm" trong list để kết nối tới Warp+.
+
 ![22222222](https://user-images.githubusercontent.com/62277838/76829310-6ee17680-6855-11ea-961b-fe19db404d4a.png)
 + Khi TunSafe hiện Connected có nghĩa là bạn đã kết nối thành công.
 
