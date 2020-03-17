@@ -43,4 +43,6 @@ Nguồn : APKCOMBO
 + thêm xong ấn Activate và sửa dụng thôi
 ![56](https://user-images.githubusercontent.com/62277838/76830908-dd740380-6858-11ea-880d-e996abb77b45.png)
 
+![64](https://user-images.githubusercontent.com/62277838/76831103-42c7f480-6859-11ea-9e26-8b647d80547f.png)
+
 **Bước 4 : Lấy ID buff DATA.**
