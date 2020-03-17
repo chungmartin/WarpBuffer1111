@@ -1,18 +1,18 @@
 
 
-**Hướng dẫn sử dụng VPN Warp+ 1.1.1.1 trên máy tính Windows,MAC OS**
+**Hướng dẫn sử dụng VPN Warp+ 1.1.1.1 trên máy tính Windows,MAC OS,Ubuntu....**
 
-**Cách 1 của Windows**
+**CÁCH 1 của Windows**
 
-**Bước 1:** Tải về và cài đặt công cụ TunSafe 
+**Bước 1:** Tải về và cài đặt công cụ **TunSafe** 
 + Tải về: https://tunsafe.com/downloads/TunSafe-1.4.exe
 + Tải về: https://tunsafe.com/downloads/TunSafe-TAP-9.21.2.exe
 
-Bước 2: Tạo file cấu hình :
+**Bước 2:** Tạo file cấu hình :
 + Link : https://1111.4it.top/ ( nguồn 4IT Community)
 + Tạo xong lưu ID lại và tải file cấu hình về 
 
-Bước 3: Cài đặt cấu hình để sử dụng Warp+ 1.1.1.1 với TunSafe
+**Bước 3:** Cài đặt cấu hình để sử dụng Warp+ 1.1.1.1 với **TunSafe**
 + Mở tool TunSafe vừa cài ở trên.
 + Chọn File > Browse in Explorer để mở thư mục cấu hình.
 + Copy file vừa tải về vào thư mục cấu hình.
@@ -27,4 +27,17 @@ Bước 4 : Lấy ID buff DATA .
 
 Nguồn : APKCOMBO
 
+**CÁCH 2 của Windows,MAC OS,Ubuntu....**
+
+**Bước 1:**  tải về và cài đặt công cụ **Wireguard** thê hệ điều hành
++ Tải về: https://www.wireguard.com/install
+
+**Bước 2:** Tạo file cấu hình :
++ Link : https://1111.4it.top/ ( nguồn 4IT Community)
++ Tạo xong lưu ID lại và tải file cấu hình về 
+
+**Bước 3:** Cài đặt cấu hình để sử dụng Warp+ 1.1.1.1 với **Wireguard**
++ Mở tool **Wireguard** vừa cài ở trên.
++ Chọn File > Browse in Explorer để mở thư mục cấu hình.
++ Copy file vừa tải về vào thư mục cấu hình.
 
