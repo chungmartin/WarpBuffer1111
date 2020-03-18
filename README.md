@@ -44,7 +44,7 @@ Nguồn : APKCOMBO
 
 ![2442](https://user-images.githubusercontent.com/62277838/76830593-1f507a00-6858-11ea-9073-fbb1113c9b9b.png)
 
-+ thêm xong ấn Activate và sửa dụng thôi
++ thêm xong ấn Activate và sử dụng thôi
 
 ![56](https://user-images.githubusercontent.com/62277838/76830908-dd740380-6858-11ea-880d-e996abb77b45.png)
 
