@@ -24,7 +24,9 @@
 + Khi TunSafe hiện Connected có nghĩa là bạn đã kết nối thành công.
 
 **Bước 4 : Lấy ID buff DATA.**
+
 **Link Tool:** https://github.com/jhuyvu/WarpBuffe
+
 **Nguồn của bro:** https://www.facebook.com/J4M3SxVN
 
 Nguồn : APKCOMBO
@@ -53,5 +55,7 @@ Nguồn : APKCOMBO
 ![64](https://user-images.githubusercontent.com/62277838/76831103-42c7f480-6859-11ea-9e26-8b647d80547f.png)
 
 **Bước 4 : Lấy ID buff DATA.**
+
 **Link Tool:** https://github.com/jhuyvu/WarpBuffe
+
 **Nguồn của bro:** https://www.facebook.com/J4M3SxVN
