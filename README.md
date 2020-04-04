@@ -27,8 +27,8 @@
 
 **Bước 4 : Lấy ID buff DATA.**
 
-
-Nguồn bài: APKCOMBO
+[Link buffdata](https://shinigamice.vpnclub.repl.run/)
+*Nguồn bài: APKCOMBO*
 
 ===============================================================================================================
 
@@ -55,3 +55,4 @@ Nguồn bài: APKCOMBO
 
 **Bước 4 : Lấy ID buff DATA.**
 
+[Link buffdata](https://shinigamice.vpnclub.repl.run/)
