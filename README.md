@@ -27,9 +27,6 @@
 
 **Bước 4 : Lấy ID buff DATA.**
 
-**Link Tool:** https://github.com/jhuyvu/WarpBuffer/releases/tag/1.3
-
-**Nguồn của bro:** https://www.facebook.com/J4M3SxVN
 
 Nguồn bài: APKCOMBO
 
@@ -58,6 +55,3 @@ Nguồn bài: APKCOMBO
 
 **Bước 4 : Lấy ID buff DATA.**
 
-**Link Tool:** https://github.com/jhuyvu/WarpBuffer/releases/tag/1.3
-
-**Nguồn của bro:** https://www.facebook.com/J4M3SxVN
