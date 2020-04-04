@@ -8,6 +8,7 @@
 
 **Bước 2:** Tạo file cấu hình :
 + Link : https://1111.4it.top/ ( nguồn 4IT Community)
+![ID](https://user-images.githubusercontent.com/62277838/78421908-9a51c700-7685-11ea-9493-bf1d34896d3d.PNG)
 + Tạo xong lưu ID lại và tải file cấu hình về 
 
 **Bước 3:** Cài đặt cấu hình để sử dụng Warp+ 1.1.1.1 với **TunSafe**
