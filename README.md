@@ -1,6 +1,6 @@
 **Hướng dẫn sử dụng VPN Warp+ 1.1.1.1 trên máy tính Windows,MAC OS,Ubuntu....**
 
-**CÁCH 1 của Windows**
+**CÁCH 1 của Windows** *Nguồn bài: APKCOMBO*
 
 **Bước 1:** Tải về và cài đặt công cụ **TunSafe** 
 + Tải về: https://tunsafe.com/downloads/TunSafe-1.4.exe
@@ -27,8 +27,8 @@
 
 **Bước 4 : Lấy ID buff DATA.**
 
-[Link buffdata](https://shinigamice.vpnclub.repl.run/)
-*Nguồn bài: APKCOMBO*
+**[Link buffdata tạm thời](https://shinigamice.vpnclub.repl.run/)**
+
 
 ===============================================================================================================
 
@@ -55,4 +55,4 @@
 
 **Bước 4 : Lấy ID buff DATA.**
 
-[Link buffdata](https://shinigamice.vpnclub.repl.run/)
+**[Link buffdata tạm thời](https://shinigamice.vpnclub.repl.run/)
