@@ -55,4 +55,4 @@
 
 **Bước 4 : Lấy ID buff DATA.**
 
-**[Link buffdata tạm thời](https://shinigamice.vpnclub.repl.run/)
+**[Link buffdata tạm thời](https://shinigamice.vpnclub.repl.run/)**
